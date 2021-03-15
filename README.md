@@ -1,4 +1,4 @@
-# molahza
+# Malhoza
 
 A new Flutter project.
 
